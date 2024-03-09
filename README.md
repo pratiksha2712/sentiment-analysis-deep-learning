@@ -17,12 +17,4 @@ Our job was to classify a test set of reviews and assign them labels based on th
 ## Results
 We have used various approaches to go about this problem and have found that LSTM, a modified RNN approach works the best among the ones chosen. We recorded a final accuracy of 90.727% on the test dataset.
 
-## Credits
-This project was given to us as a condensed part of the course CS5242, National University of Singapore, as a 3 week summer internship program. (GAIP Big Data Analysis using ANNs)
 
-## Contributors
-1. github.com/ishaanverma
-2. github.com/AnKuR-GaRg1
-3. github.com/mukeshkaranth
-4. github.com/janimalaga
-5. Samksha Bhardwaj
